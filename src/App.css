@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.app-container {
+  min-height: 100vh;
+  padding: 2rem 1rem;
+}
+
+@media (max-width: 768px) {
+  #root {
+    padding: 1rem;
+  }
+
+  .app-container {
+    padding: 1rem 0.5rem;
+  }
+}

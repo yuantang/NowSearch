@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "total": 10,
+    "list": [
+      {
+        "id": 1,
+        "title": "7天专注冥想",
+        "type": "course",
+        "type_subcat": "subcat",
+        "similarity_score": 0.6902,
+        "thumb_img": "https://example.com/image1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "7天基础冥想",
+        "type": "course",
+        "type_subcat": "subcat",
+        "similarity_score": 0.6875,
+        "thumb_img": "https://example.com/image2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "7天减压冥想",
+        "type": "course",
+        "type_subcat": "subcat",
+        "similarity_score": 0.5902,
+        "thumb_img": "https://example.com/image3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "7天睡眠冥想",
+        "type": "course",
+        "type_subcat": "subcat",
+        "similarity_score": 0.5875,
+        "thumb_img": "https://example.com/image4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "专注力训练",
+        "type": "course",
+        "type_subcat": "subcat",
+        "similarity_score": 0.4902,
+        "thumb_img": "https://example.com/image5.jpg"
+      },
+      {
+        "id": 6,
+        "title": "呼吸练习",
+        "type": "course",
+        "type_subcat": "subcat",
+        "similarity_score": 0.4875,
+        "thumb_img": "https://example.com/image6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "正念冥想",
+        "type": "course",
+        "type_subcat": "subcat",
+        "similarity_score": 0.3902,
+        "thumb_img": "https://example.com/image7.jpg"
+      },
+      {
+        "id": 8,
+        "title": "放松冥想",
+        "type": "course",
+        "type_subcat": "subcat",
+        "similarity_score": 0.3875,
+        "thumb_img": "https://example.com/image8.jpg"
+      },
+      {
+        "id": 9,
+        "title": "慈悲冥想",
+        "type": "course",
+        "type_subcat": "subcat",
+        "similarity_score": 0.2902,
+        "thumb_img": "https://example.com/image9.jpg"
+      },
+      {
+        "id": 10,
+        "title": "感恩冥想",
+        "type": "course",
+        "type_subcat": "subcat",
+        "similarity_score": 0.2875,
+        "thumb_img": "https://example.com/image10.jpg"
+      }
+    ]
+  }
+}
